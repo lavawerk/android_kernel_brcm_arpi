@@ -219,7 +219,7 @@
 // Downstream rpi- changes
 
 #include "bcm270x.dtsi"
-#include "bcm271x-rpi-bt.dtsi"
+// #include "bcm271x-rpi-bt.dtsi"
 
 / {
 	soc {
